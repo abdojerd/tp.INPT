@@ -1,6 +1,10 @@
 package inpt.yann.benmaissa;
 
 import java.net.URL;
+/**
+*
+* @author SAMOUCHE ISMAIL , JERDAOUI ABDELLATIF, NASSER YAHYA
+*/
 
 import javax.xml.namespace.QName;
 import javax.xml.ws.Service;

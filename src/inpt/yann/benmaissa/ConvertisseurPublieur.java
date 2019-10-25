@@ -1,6 +1,10 @@
 package inpt.yann.benmaissa;
 
 import javax.xml.ws.Endpoint;
+/**
+*
+* @author SAMOUCHE ISMAIL , JERDAOUI ABDELLATIF, NASSER YAHYA
+*/
 
 public class ConvertisseurPublieur {
 

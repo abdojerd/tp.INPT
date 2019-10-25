@@ -1,6 +1,10 @@
 package inpt.yann.benmaissa;
 
 import javax.jws.WebService;
+/**
+*
+* @author SAMOUCHE ISMAIL , JERDAOUI ABDELLATIF, NASSER YAHYA
+*/
 
 @WebService(endpointInterface = "inpt.yann.benmaissa.Convertisseur")
 public class ConvertisseurImpl implements Convertisseur{
